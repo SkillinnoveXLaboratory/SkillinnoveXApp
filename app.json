@@ -3,7 +3,7 @@
     "name": "SkillInnoveX",
     "slug": "skillinnovex-app",
     "description": "Create resumes, portfolios, cover letters, ATS reviews, and polished writing with SkillInnoveX.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./APP_Icons/ic_launcher-web.png",
     "scheme": "skillinnovexapp",
@@ -13,6 +13,7 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 2,
       "package": "in.skillinnovex.app",
       "blockedPermissions": [
         "android.permission.RECORD_AUDIO"
